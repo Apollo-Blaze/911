@@ -36,10 +36,6 @@ This project involves analyzing 911 calls data to uncover patterns, trends, and 
     pip install -r requirements.txt
     ```
 
-# Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -49,4 +45,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+- Jose (Python for Data Science and Machine Learning)
 
